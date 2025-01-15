@@ -13,7 +13,7 @@ function primeNumber($ligne): bool
         return false;
     }
     $squareRoot = floor(sqrt($ligne));
-    for($i = 3; $i < $squareRoot; $i+=2){
+    for($i = 3; $i <= $squareRoot; $i+=2){
         if($ligne % $i == 0){
             return false;
         }
