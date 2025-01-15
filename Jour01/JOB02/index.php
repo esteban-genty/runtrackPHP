@@ -1,9 +1,8 @@
 <?php
-//  Affichage de "Hello LaPlateforme!"
-echo "Hello LaPlateforme!"
+//Affichage de "Hello LaPlateforme!"
+echo "Hello LaPlateforme!";
 
-/*  Commentaire Bloc
-    Affichage de "Hello LaPlateforme! 
-*/
-echo "Hello LaPlateforme!"
+/*Nouvelle affichage mais 
+commentaire en bloc */
+echo "Hello LaPlateforme!";
 ?>
